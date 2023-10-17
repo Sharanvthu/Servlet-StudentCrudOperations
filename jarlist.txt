@@ -1,0 +1,7 @@
+Required JAR files
+
+
+1.jsp-api-2.4.jar
+2.jstl-1.2.jar
+3.ojdbc14.jar
+4.servlet-api-2.5.jar
